@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_360568_integra_0.user" name="x_360568_integra_0.user">9f0171a2c3a202102a73b34ed40131c3</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-05 13:43:24</sys_created_on>
+        <sys_id>1f0171a2c3a202102a73b34ed40131c4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>9f0171a2c3a202102a73b34ed40131c3</sys_name>
+        <sys_package display_value="Integration Registry" source="x_360568_integra_0">df0171a2c3a202102a73b34ed40131a8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Integration Registry">df0171a2c3a202102a73b34ed40131a8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_1f0171a2c3a202102a73b34ed40131c4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-05 13:43:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
